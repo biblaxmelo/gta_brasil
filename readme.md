@@ -15,3 +15,7 @@ hoje eu aprendi o que e merge e rebase
 tambem tive dificuldade em saber o editor e o varao Davi me ajudou batstante
 tivemos a separacao do time de devsecops e 2 e eu fiquei no time do varao Vitor
 e o nosso novo chefe imediato e o varao Lucas Liberal. 
+ 
+ hoje no dia 03/05  de 2020 tive a honra de aprender mais sobre todas as coisas
+ aprendi a dar um garfo e tambem a clonar um repositorio e trabalhar em cima 
+ dele atraves do code kkkkk
